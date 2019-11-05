@@ -1,3 +1,3 @@
-include:: concept-explanation.adoc [leveloffset=+1]
-include:: doing-one-procedure.adoc [leveloffset=+1]
-include:: reference-material.adoc [leveloffset=+1]
+include::concept-explanation.adoc [leveloffset=+1]
+include::doing-one-procedure.adoc [leveloffset=+1]
+include::reference-material.adoc [leveloffset=+1]
