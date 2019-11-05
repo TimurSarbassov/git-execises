@@ -1,0 +1,13 @@
+<title>Git Cheat Sheet</title>
+<productname>Cheat Sheet for New Writers</productname>
+<productnumber>0.1</productnumber>
+<subtitle>Git Cheat Sheet</subtitle>
+<abstract>
+    <para>
+      This is a Git Cheat Sheet, where you can find some useful tips regarding Git workflow.
+    </para>
+
+</abstract>
+<authorgroup>
+    <orgname>Red Hat Customer Content Services</orgname>
+</authorgroup>
