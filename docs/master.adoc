@@ -1,3 +1,17 @@
-include::concept-explanation.adoc [leveloffset=+1]
-include::doing-one-procedure.adoc [leveloffset=+1]
-include::reference-material.adoc [leveloffset=+1]
+
+
+= First title
+:toc: left
+:toclevels: 2
+:toc-title: Contents
+:doctype: book
+include::concept-explanation.adoc[leveloffset=+1]
+include::doing-one-procedure.adoc[leveloffset=+2]
+include::reference-material.adoc[leveloffset=+3]
+
+
+
+
+
+== New title
+It is a new title
