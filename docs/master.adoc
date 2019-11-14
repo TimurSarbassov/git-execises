@@ -8,6 +8,7 @@
 include::concept-explanation.adoc[leveloffset=+1]
 include::doing-one-procedure.adoc[leveloffset=+2]
 include::reference-material.adoc[leveloffset=+3]
+include::assembly_git-hosting-services.adoc[leveloffset=+1]
 
 
 
