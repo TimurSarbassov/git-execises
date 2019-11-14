@@ -1,0 +1,5 @@
+GitHub is a Git-based repository hosting platform with 26 million users (March 2017).
+GitHub projects can be made public and every publicly shared code is freely open to everyone.
+You can have private projects as well, but only 3 collaborators allowed on the free plan.
+Public repositories on GitHub are often used to share open source software.
+Besides the basic code repository, GitHub can be used for issue tracking, documentation, and wikis.

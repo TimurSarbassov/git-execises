@@ -1,0 +1,3 @@
+Similar to GitHub, GitLab is a repository manager which lets teams collaborate on code.
+Written in Ruby and Go, GitLab offers some similar features for issue tracking and project
+management as GitHub.
